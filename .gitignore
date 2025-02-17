@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+# Files
+2311.14024v3.pdf
+skogsstyrelsen-data/
+
+
 # Distribution / packaging
 .Python
 build/
