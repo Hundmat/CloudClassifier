@@ -9,7 +9,8 @@ __pycache__/
 # Files
 2311.14024v3.pdf
 skogsstyrelsen-data/
-
+# Path files
+*.pth
 
 # Distribution / packaging
 .Python
